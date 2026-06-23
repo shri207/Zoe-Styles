@@ -1,0 +1,6 @@
+{
+  "name": "Zoe Styles",
+  "description": "Premium editorial luxury beauty salon website for Zoe Styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
